@@ -1,0 +1,15 @@
+{
+    "name": "macos/csc.framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Code-Smith-Craft",
+            "email": "khudoyberganov98@gmail.com"
+        }
+    ],
+    "require": {}
+}
